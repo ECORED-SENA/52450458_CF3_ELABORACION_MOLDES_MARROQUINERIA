@@ -1,0 +1,150 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  }, 
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "introduccion",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","intro"],
+    "path": "pages/intro.html"
+  }, 
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "molde",
+    "title": "1. El molde patrón.",
+    "breadcrumb": ["Inicio","Tema 1"],
+    "path": "pages/1-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "molde",
+        "title": "1.1 Líneas de construcción para la elaboración del molde patrón.",
+        "anchor": "11"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "molde",
+        "title": "1.2 Moldes patrón.",
+        "anchor": "12"
+      }
+    ]
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "unidades",
+    "title": "2. Las unidades de medida.",
+    "breadcrumb": ["Inicio","Tema 2"],
+    "path": "pages/2-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "unidades",
+        "title": "2.1 Metrología.",
+        "anchor": "21"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "unidades",
+        "title": "2.2 Medición.",
+        "anchor": "22"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "unidades",
+        "title": "2.3 Sistema Internacional (SI).",
+        "anchor": "23"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "unidades",
+        "title": "2.4 Magnitud y unidades básicas.",
+        "anchor": "24"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "unidades",
+        "title": "2.5 Múltiplos y submúltiplos del metro.",
+        "anchor": "25"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "unidades",
+        "title": "2.6 Conversión del sistema inglés al SI.",
+        "anchor": "26"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "unidades",
+        "title": "2.7 Unidades de medida del cuero.",
+        "anchor": "27"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "unidades",
+        "title": "2.8 Instrumentos para medir utilizados en marroquinería.",
+        "anchor": "28"
+      }
+    ]
+  }, 
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "modelaje",
+    "title": "3. Los sistemas de modelaje.",
+    "breadcrumb": ["Inicio","Tema 3"],
+    "path": "pages/3-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "modelaje",
+        "title": "3.1 Bolso tipo pinza.",
+        "anchor": "31"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "modelaje",
+        "title": "3.2 Bolso curvo con pinza.",
+        "anchor": "32"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "modelaje",
+        "title": "3.3 Bolso con base.",
+        "anchor": "33"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "modelaje",
+        "title": "3.4 Bolso de giro.",
+        "anchor": "34"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "modelaje",
+        "title": "3.5 Billetera larga.",
+        "anchor": "35"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "modelaje",
+        "title": "3.6 Elaboración de molde billetera corta.",
+        "anchor": "36"
+      }
+    ]
+  }, 
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "4modelaje",
+    "title": "4. Los sistemas de modelaje.",
+    "breadcrumb": ["Inicio","Tema 4"],
+    "path": "pages/4-tema.html"
+  }
+]
